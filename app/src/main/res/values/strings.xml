@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">assignment_2_hangman_game_LeonardHuang99</string>
+    
+    <string-array name="WORDS">
+        <item>Mother</item>
+        <item>DaD</item>
+        <item>JeAn</item>
+        <item>ApplE</item>
+        <item>bAnAnA</item>
+        <item>kitchen</item>
+        <item>mood</item>
+        <item>retirement</item>
+        <item>sound</item>
+        <item>dictate</item>
+        <item>rehabilitation</item>
+        <item>menu</item>
+        <item>position</item>
+        <item>leaf</item>
+        <item>director</item>
+        <item>reflection</item>
+        <item>pray</item>
+        <item>portion</item>
+        <item>hospitality</item>
+        <item>onion</item>
+        <item>eat</item>
+        <item>restless</item>
+        <item>conversation</item>
+        <item>course</item>
+        <item>utter</item>
+    </string-array>
+</resources>
